@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot using REST APIs.
 - 💞️ I’m looking to collaborate on Java web development projects.
 - 📫 How to reach me - 
-     * Email Id - nagwanivaibhav12@gmail.com
+     * Email Id - nagwanivaibhav02@gmail.com
      * LinkedIn - www.linkedin.com/in/vaibhavnagwani
      * Instagram - @vaibhavvn_ , https://www.instagram.com/vaibhavvn_/
 - Leetcode: https://leetcode.com/vaibhavnagwani/
