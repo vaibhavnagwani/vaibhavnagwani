@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vaibhavnagwani
-- 👀 I’m interested in Java and Java technologies.
-- 🌱 I’m currently learning Spring Boot using REST APIs.
-- 💞️ I’m looking to collaborate on Java web development projects.
+- 👀 I’m interested in Backend or Full-Stack Development.
+- 💞️ I’m looking to collaborate on Development projects.
 - 📫 How to reach me - 
      * Email Id - nagwanivaibhav02@gmail.com
      * LinkedIn - www.linkedin.com/in/vaibhavnagwani
